@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d7842e92cdb700419202a2929242d8e, type: 3}
+  m_Name: Dirt
+  m_EditorClassIdentifier: 
+  name: Dirt
+  blockPrefab: {fileID: 1243844730201935038, guid: a2be41af810eb8743b32493c9edfad3a,
+    type: 3}
+  sprite: {fileID: 21300000, guid: 3e9f279623aed6345801170ac0e48f1f, type: 3}
+  blockBreakSoundInfo:
+  - {fileID: 11400000, guid: c3ba72b636597ac45a3e67ffa00ad4c3, type: 2}
+  - {fileID: 11400000, guid: 96c12d024d2420e4fa25013f3d05d685, type: 2}
+  - {fileID: 11400000, guid: 776f90e2a881f3346a565b4d28c2dea1, type: 2}
+  blockBeenWalkedSoundInfo: []
+  neededToolStrength: 0
+  explodeProtectionStrength: 0
+  isCurrentlyInteracting: 0

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Block
+  - Entity
+  - ItemEntity
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - playerRaycastToLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 699767989
+    locked: 0
+  - name: Player
+    uniqueID: 3029711811
+    locked: 0
+  - name: Blocks
+    uniqueID: 4113269823
+    locked: 0
+  - name: Clouds
+    uniqueID: 296592967
+    locked: 0
+  - name: Effects
+    uniqueID: 954051063
+    locked: 0

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d7842e92cdb700419202a2929242d8e, type: 3}
+  m_Name: Grass_Field
+  m_EditorClassIdentifier: 
+  name: Grass_Field
+  blockPrefab: {fileID: 1243844730201935038, guid: 1d5b4ff09bd98f443a3436fd169b10dd,
+    type: 3}
+  blockBreakSoundInfo:
+  - {fileID: 11400000, guid: 60ddefa92ec66e44fbe01e4a20999109, type: 2}
+  blockBeenWalkedSoundInfo: []
+  sprite: {fileID: 21300000, guid: 18a8a64df6dec02479ec56b574cd4f9e, type: 3}
+  neededToolStrength: 0
+  explodeProtectionStrength: 0
+  isCurrentlyInteracting: 0
